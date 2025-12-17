@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { PackageItem } from './package-item/package-item';
-import { Package } from './package.model';
+import { Package } from '../package.model';
 import { CommonModule } from '@angular/common';
 
 @Component({
